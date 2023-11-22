@@ -1,0 +1,60 @@
+Title: Crowdsourced semantic annotation of scientific publications and tabular data in PDF
+DOI: 10.1145/2814864.2814887
+Title: Complex event extraction from real-time news streams
+DOI: 10.1145/2814864.2814870
+Title: An elastic and scalable spatiotemporal query processing for linked sensor data
+DOI: 10.1145/2814864.2814869
+Title: Toward a statistical data integration environment: the role of semantic metadata
+DOI: 10.1145/2814864.2814879
+Title: The role of reasoning for RDF validation
+DOI: 10.1145/2814864.2814867
+Title: Accessing and reasoning with data from disparate data sources using modular ontologies and OBDA
+DOI: 10.1145/2814864.2814874
+Title: Making sense of description logics
+DOI: 10.1145/2814864.2814866
+Title: TailR: a platform for preserving history on the web of data
+DOI: 10.1145/2814864.2814875
+Title: Integrating custom index extensions into virtuoso RDF store for e-commerce applications
+DOI: 10.1145/2814864.2814877
+Title: Knowledge base shipping to the linked open data cloud
+DOI: 10.1145/2814864.2814885
+Title: iCM-Hydraulic: semantics-empowered condition monitoring of hydraulic machines
+DOI: 10.1145/2814864.2814865
+Title: A linked data platform for finite element biosimulations
+DOI: 10.1145/2814864.2814884
+Title: Cross-lingual lexical matching with word translation and local similarity optimization
+DOI: 10.1145/2814864.2814888
+Title: Updating OWL2 ontologies using pruned rulesets
+DOI: 10.1145/2814864.2814871
+Title: A semantic method for multiple resources exploitation
+DOI: 10.1145/2814864.2814868
+Title: SemaGrow: optimizing federated SPARQL queries
+DOI: 10.1145/2814864.2814886
+Title: Streaming transformation of XML to RDF using XPath-based mappings
+DOI: 10.1145/2814864.2814880
+Title: LODFlow: a workflow management system for linked data processing
+DOI: 10.1145/2814864.2814882
+Title: Machine-interpretable dataset and service descriptions for heterogeneous data access and retrieval
+DOI: 10.1145/2814864.2814873
+Title: Data licensing on the cloud: empirical insights and implications for linked data
+DOI: 10.1145/2814864.2814878
+Title: An overview of the tourpedia linked dataset with a focus on relations discovery among places
+DOI: 10.1145/2814864.2814876
+Title: An optimization approach for load balancing in parallel link discovery
+DOI: 10.1145/2814864.2814872
+Title: MEX vocabulary: a lightweight interchange format for machine learning experiments
+DOI: 10.1145/2814864.2814883
+Title: Unsupervised learning of an extensive and usable taxonomy for DBpedia
+DOI: 10.1145/2814864.2814881
+Title: Living semantic platform
+DOI: 10.1145/2814864.2814893
+Title: SimplePARQL: a new approach using keywords over SPARQL to query the web of data
+DOI: 10.1145/2814864.2814890
+Title: The DBpedia wayback machine
+DOI: 10.1145/2814864.2814889
+Title: Updating SPARQL results in real-time with client-side fragment patching
+DOI: 10.1145/2814864.2814892
+Title: Procurement notice enrichment using product ontologies
+DOI: 10.1145/2814864.2814891
+Title: Online ontology shortest paths searcher
+DOI: 10.1145/2814864.2814894
